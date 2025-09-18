@@ -14,7 +14,7 @@
 
 	</properties>
 
-	<distributionManagement>
+<distributionManagement>
 		 <snapshotRepository>
 		    <id>NexusRepo</id>
 		    <url>http://107.21.178.93:8081/repository/snapshot/</url>
