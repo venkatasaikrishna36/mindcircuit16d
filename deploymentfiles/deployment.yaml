@@ -23,6 +23,6 @@ spec:
     spec:
       containers:
         - name: fb-pod-cont
-          image: saikrishna36/batch16d:7
+          image: saikrishna36/batch16d:pythonimg
           ports:
             - containerPort: 8080
